@@ -26,8 +26,6 @@ namespace form
         {
            
             Form3 fm = new Form3();
-          //  fm.label1.Text = "bonjour" + textBox1.Text;
-          //  
             //fm.ShowDialog();
             fm.label1.Text = "bonjour " + textBox1.Text;
             fm.Show();
