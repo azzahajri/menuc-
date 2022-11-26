@@ -1,0 +1,8 @@
+c:\users\azzah\documents\visual studio 2013\Projects\tp2time\tp2time\bin\Debug\tp2time.exe.config
+c:\users\azzah\documents\visual studio 2013\Projects\tp2time\tp2time\bin\Debug\tp2time.exe
+c:\users\azzah\documents\visual studio 2013\Projects\tp2time\tp2time\bin\Debug\tp2time.pdb
+c:\users\azzah\documents\visual studio 2013\Projects\tp2time\tp2time\obj\Debug\tp2time.Form1.resources
+c:\users\azzah\documents\visual studio 2013\Projects\tp2time\tp2time\obj\Debug\tp2time.Properties.Resources.resources
+c:\users\azzah\documents\visual studio 2013\Projects\tp2time\tp2time\obj\Debug\tp2time.csproj.GenerateResource.Cache
+c:\users\azzah\documents\visual studio 2013\Projects\tp2time\tp2time\obj\Debug\tp2time.exe
+c:\users\azzah\documents\visual studio 2013\Projects\tp2time\tp2time\obj\Debug\tp2time.pdb

@@ -1,0 +1,9 @@
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\alarm\bin\Debug\alarm.exe.config
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\alarm\bin\Debug\alarm.exe
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\alarm\bin\Debug\alarm.pdb
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\alarm\obj\Debug\alarm.Form1.resources
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\alarm\obj\Debug\alarm.Properties.Resources.resources
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\alarm\obj\Debug\alarm.csproj.GenerateResource.Cache
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\alarm\obj\Debug\alarm.exe
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\alarm\obj\Debug\alarm.pdb
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\alarm\obj\Debug\alarm.csprojResolveAssemblyReference.cache

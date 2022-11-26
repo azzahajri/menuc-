@@ -1,0 +1,12 @@
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\bin\Debug\form.exe.config
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\bin\Debug\form.exe
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\bin\Debug\form.pdb
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\obj\Debug\form.client.Form1.resources
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\obj\Debug\form.Form1.resources
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\obj\Debug\form.Form2.resources
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\obj\Debug\form.Properties.Resources.resources
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\obj\Debug\form.csproj.GenerateResource.Cache
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\obj\Debug\form.exe
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\obj\Debug\form.pdb
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\obj\Debug\form.Form3.resources
+c:\Users\azzah\documents\visual studio 2013\Projects\tp2time\form\obj\Debug\form.csprojResolveAssemblyReference.cache
